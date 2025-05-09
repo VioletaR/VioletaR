@@ -2,6 +2,21 @@
 <p align="center">
   I'm a Computer Science student at the University of Aveiro with a passion for coding and problem-solving.
 </p>
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/VioletaR/VioletaR/output/github-contribution-grid-snake-dark.svg" 
+  />
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/VioletaR/VioletaR/output/github-contribution-grid-snake.svg" 
+  />
+  <img 
+    alt="snake animation" 
+    src="https://raw.githubusercontent.com/VioletaR/VioletaR/output/github-contribution-grid-snake.svg" 
+  />
+</picture>
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,django,fastapi,spring,postgres,mongodb,docker,linux&theme=light" />

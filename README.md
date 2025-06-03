@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Violeta!</h1>
 <p align="center">
-  I'm a Computer Science student at the University of Aveiro with a passion for coding and problem-solving.
+Full Stack Engineer specialized in backend development. I stand out for my proactivity in solving complex problems and my continuous curiosity in exploring new technologies. I adapt quickly to dynamic and diverse environments. I value collaboration in multidisciplinary teams, combining social skills with a passion for innovative challenges. I focus on delivering robust solutions, prioritizing efficiency and best coding practices.
 </p>
 <picture>
   <source 
@@ -49,10 +49,34 @@
 <details align="center">
   <summary>GitHub stats</summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=VioletaR&show_icons=true&theme=buefy" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VioletaR&layout=compact&theme=buefy" />
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=VioletaR&show_icons=true&theme=tokyonight"
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=VioletaR&show_icons=true&theme=buefy" 
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=VioletaR&show_icons=true&theme=buefy"
+    />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VioletaR&layout=compact&theme=tokyonight"
+    />
+    <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VioletaR&layout=compact&theme=buefy" 
+    />
+    <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VioletaR&layout=compact&theme=buefy"
+    />
+  </picture>
   </p>
 </details>
 
